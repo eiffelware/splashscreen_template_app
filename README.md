@@ -1,2 +1,2 @@
-# splashscreen_template_app
+# Splash Screen Electron JS Template made by Peregrin
  
